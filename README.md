@@ -1,5 +1,5 @@
 <h1 align="center"> 🏄‍♂️ Altin Salihu</h1>
-<h3 align="center">"Emerging frontend developer based in Kosovo, poised to contribute to the evolving landscape of software development."</h3>
+<h3 align="center">Emerging frontend developer based in Kosovo, poised to contribute to the evolving landscape of software development.</h3>
 
 - 🌱 "I am currently dedicated to advancing my proficiency in JavaScript and TypeScript development, with a keen focus on honing my skills in these pivotal programming languages."
 
