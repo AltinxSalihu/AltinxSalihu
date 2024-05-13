@@ -1,7 +1,7 @@
 Hi! My name is Altin Salihu
 ========================================================================================================================================
 
-🌍 Emerging frontend developer based in Kosovo.
+🌍 Emerging frontend developer based in Kosovo, currently dedicated to advancing my proficiency in JavaScript and TypeScript development, with a keen focus on honing my skills in these pivotal programming languages.
 <br/>
 
 ### Skills
