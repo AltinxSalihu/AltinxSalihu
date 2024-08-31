@@ -15,8 +15,7 @@ I'm a frontend developer, with experience in building dynamic and responsive use
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://skillicons.dev) &nbsp; 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) &nbsp;[![My Skills](https://skillicons.dev/icons?i=git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,java,git,linux,boots)](https://skillicons.dev)
 <br />
 
 ### 📊 Stats
