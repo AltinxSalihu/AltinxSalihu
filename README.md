@@ -22,6 +22,6 @@ I'm a frontend developer, with experience in building dynamic and responsive use
 
 ![Altin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AltinxSalihu&show_icons=true&theme=gruvbox)
 
-[GitHub Streak](https://streak-stats.demolab.com?user=AltinxSalihu&theme=gruvbox&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=AltinxSalihu&theme=gruvbox&border_radius=4.5) -->
 
 #
